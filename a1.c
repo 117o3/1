@@ -1,6 +1,3 @@
-// Created by AJ DiLeo
-// For use in CS211 Fall 2023 ONLY
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
